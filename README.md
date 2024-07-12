@@ -44,7 +44,7 @@ Ta thấy theo công thức trong hình giá trị Vout sẽ thay đổi theo gi
 
 ## Kích thước sản phẩm
 
-![MKE_S10](/image/MKE_S10_5.jpg)
+![MKE_S10](/image/MKE_S10_5.JPG)
 
 ## Các chân tín hiệu
 
